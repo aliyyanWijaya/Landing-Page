@@ -159,3 +159,13 @@ body {
     font-size: 14px;
     font-weight: bold;
 }
+
+/* FOOTER */
+.footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
